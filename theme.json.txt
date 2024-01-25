@@ -1,0 +1,6 @@
+default templates
+
+default colour palette
+
+default color gradients
+
