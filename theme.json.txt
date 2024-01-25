@@ -4,3 +4,7 @@ default colour palette
 
 default color gradients
 
+default fonts
+
+default font sizes
+
